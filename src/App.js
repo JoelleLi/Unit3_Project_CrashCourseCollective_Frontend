@@ -110,7 +110,6 @@ async function loginUser() {
   }
   if (userData.login) {
     await addUser(newUser)
-    // Cookies.set('userData', JSON.stringify(newUser), { expires: 7})
   } else {
     console.error("No username available in userData")
   }
