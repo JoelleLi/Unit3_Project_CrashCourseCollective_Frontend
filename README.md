@@ -35,6 +35,7 @@ My primary role was to implement the front and back end CRUD functionality of th
 
 Collaborators:
 Cameron Orr | [GitHub](https://github.com/KiwiCJ/Project-2-Frontend)
+
 Toby Kittow | [GitHub](https://github.com/TKittow/Unit2_Project_Frontend)
 
 ## Technologies Used
@@ -129,7 +130,7 @@ As a team we decided that we would pre-load a choice of cohorts to the Cohort sc
 
 Once the profile edit form was submitted in the front end, if the cohort was changed, the back would update the cohort the User belonged to, and delete them from their previous one. 
 
-### Day 5
+### Day 5
 
 After getting the core functionality and CRUD aspect of the User profile done, I began to work on the styling and how this data would be displayed.
 
