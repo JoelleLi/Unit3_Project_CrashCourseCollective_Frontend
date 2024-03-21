@@ -1,4 +1,4 @@
-# Project Three - Shoot Finder
+# Project Three - Crash Course Collective
 Table of Contents:
 + Project Overview
 + Deployment Link
@@ -32,9 +32,17 @@ CCC was born out of our desire of being able to view past student’s work easil
 
 [GitHub Back End](https://github.com/JoelleLi/Unit3_Project_CrashCourseCollective_Backend)
 
+Clone / download the repo.
+
+In terminal run the following commands:
+
++ Install dependencies ```npm i```
++ In back-end folder, start the server using ```nodemon```
++ In front-end folder, start the server using ```npm run start```
+
 ## Timeframe & Working Team
 
-Team of 3, 7 days
+**Team of 3, 7 days**
 
 My primary role was to implement the front and back end CRUD functionality of the User model.
 
