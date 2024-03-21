@@ -33,19 +33,20 @@ Team of 3, 7 days
 
 My primary role was to implement the front and back end CRUD functionality of the User model.
 
-Collaborators:
-Cameron Orr | [GitHub](https://github.com/KiwiCJ/Project-2-Frontend)
+**Collaborators:**
 
-Toby Kittow | [GitHub](https://github.com/TKittow/Unit2_Project_Frontend)
+**Cameron Orr** | [GitHub](https://github.com/KiwiCJ/Project-2-Frontend)
+
+**Toby Kittow** | [GitHub](https://github.com/TKittow/Unit2_Project_Frontend)
 
 ## Technologies Used
 
-*Backend*
+**Backend**
 + MongoDB
 + Express
 + JavaScript
 
-*Frontend*
+**Frontend**
 + React.js
 + JavaScript
 + Node.js
@@ -54,7 +55,7 @@ Toby Kittow | [GitHub](https://github.com/TKittow/Unit2_Project_Frontend)
 + HTML 
 + CSS
 
-*Development Tools*
+**Development Tools**
 + VS Code
 + Google Chrome Dev Tools
 + Git
@@ -65,11 +66,11 @@ Toby Kittow | [GitHub](https://github.com/TKittow/Unit2_Project_Frontend)
 
 ## Brief
 
-+ In a team, create a working full-stack, single-page application hosted on Netlify.
-+ Incorporate the technologies of the MERN-stack: MongoDB, Express, React and Node.
-+ Have a well-styled interactive front-end which communicates with the Express backend via Axios.
-+ Implement token-based authentication, including the ability of a user to sign up, log in and log out.
-+ Implement authorization by restricting CRUD data functionality to authenticated users.
++ **In a team, create a working full-stack, single-page application** hosted on Netlify.
++ **Incorporate the technologies of the MERN-stack**: MongoDB, Express, React and Node.
++ **Have a well-styled interactive front-end** which communicates with the Express backend via Axios.
++ **Implement token-based authentication**, including the ability of a user to sign up, log in and log out.
++ **Implement authorization** by restricting CRUD data functionality to authenticated users.
 + Navigation should respond to the login status of the user.
 + Have a well-scoped feature-set. 
 + Optionally consume data from a third-party API.
