@@ -15,6 +15,11 @@ Table of Contents:
 + Future Improvements
 
 ## Project Overview
+
+### Project 3: Crash Course Collective
+
+![Screenshot of the homepage of CCC.](./assets/readme00.png)
+
 Crash Course Collective is a community where users can view profiles and projects from their fellow students in their course cohort, and past alumni. Using a GitHub API for login authentication, as a team of three we created a full-stack CRUD application using JavaScript, MongoDB, Express, React.js and Node.js.
 
 CCC was born out of our desire of being able to view past student’s work easily who had been in the same bootcamp as us. Using this app, users are able to add themselves to a cohort, edit their profile and add projects to their ‘portfolio’.
